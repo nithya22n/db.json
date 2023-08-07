@@ -1,5 +1,6 @@
-[
-  { "id": 1, "name": "Lion", "species": "Panthera leo" },
-  { "id": 2, "name": "Elephant", "species": "Loxodonta africana" },
-  // ... more objects
-]
+{
+  "animals": [
+    { "id": 1, "name": "Lion", "species": "Panthera leo" },
+    { "id": 2, "name": "Elephant", "species": "Loxodonta africana" }
+  ]
+}
